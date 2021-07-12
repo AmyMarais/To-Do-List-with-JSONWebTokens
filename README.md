@@ -1,4 +1,6 @@
 # To-Do-List-with-JSONWebTokens
+
+## Description
 A MERN stack application with JSON web-tokens for user authentication
 
 ## Screenshots of working application
@@ -12,8 +14,8 @@ Register
 
 
 Add Item
-![Screenshot (188)](https://user-images.githubusercontent.com/81366533/125214212-13db5a80-e2b6-11eb-9ccb-f81ee2b95835.png)
-![Screenshot (189)](https://user-images.githubusercontent.com/81366533/125214222-235aa380-e2b6-11eb-84f7-2e5dabb3d1c2.png)
+![Screenshot (190)](https://user-images.githubusercontent.com/81366533/125214315-c14e6e00-e2b6-11eb-884d-825d6ce29a3e.png)![Screenshot (185)](https://user-images.githubusercontent.com/81366533/125214325-d0352080-e2b6-11eb-9645-9972a3ba03d3.png)
+
 
 ## Installation :
 - type `npm install` into your terminal
@@ -23,4 +25,4 @@ Add Item
 
 
 ### Resources :
-https://youtube.com/playlist?list=PLillGF-RfqbbiTGgA77tGO426V3hRF9iE
+Traversy Media : https://youtube.com/playlist?list=PLillGF-RfqbbiTGgA77tGO426V3hRF9iE
