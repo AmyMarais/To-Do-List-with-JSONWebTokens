@@ -1,4 +1,4 @@
 {
-    "mongoURI" : "mongodb+srv://AmyMarais:Syr3smith@cluster0.rqkwd.mongodb.net/todo",
+    "mongoURI" : "enter MongoURI",
     "jwtSecret" : "sl_todoSecret"
 }
